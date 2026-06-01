@@ -126,12 +126,10 @@ ABC-Retail-Sales-Analytics
 │   └── curated_retail_data_final.xlsx
 │
 ├── Documentation
-│   ├── Project_Documentation.docx
-│   ├── Architecture_Diagram.png
-│   ├── Data_Flow_Diagram.png
+│   ├── ABC_Retail_Documentation.docx
 │
 ├── PowerBI
-│   ├── ABC_Retail_Dashboard.pbix
+│   ├── ABC_Business_Insights_Dashboard.pbix
 │
 └── README.md
 ```
@@ -144,7 +142,6 @@ ABC-Retail-Sales-Analytics
 * Revenue by Category
 * Revenue by City
 * Revenue by Product
-* Revenue by Sales Channel
 * Revenue by Payment Method
 * Monthly Revenue Trend
 * Average Order Value
